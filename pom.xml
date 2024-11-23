@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>Devops Xpress</name>
+		<url>http://Devops Xpress.com/</url>
 	</organization>
 
         <properties>
@@ -95,13 +95,13 @@
   <distributionManagement>
       <repository>
         <id>nexus</id>
-        <name>Landmark Technologies Releases Nexus Repository</name>
+        <name>Devops Xpress Releases Nexus Repository</name>
         <url>http://98.81.159.237:8081/repository/tesla-releases/</url>
       </repository>
       
       <snapshotRepository>
         <id>nexus</id>
-        <name>Landmark Technologies Snapshot Nexus Repository </name>
+        <name>Devops Xpress Snapshots Nexus Repository </name>
         <url>http://98.81.159.237:8081/repository/tesla-snapshots/</url>
       </snapshotRepository>
       
