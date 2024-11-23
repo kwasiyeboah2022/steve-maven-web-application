@@ -4,10 +4,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>DevOps Xpress- Home Page</title
+<title>LandmarkTechnologies- Home Page</title>
+<link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
 <body>
+<h1 align="center">Welcome to Tesla Web application Project.</h1>
+<h1 align="center">Devops Xpress Software Solutions are developing and supporting quality Software Solutions to millions of clients globally.
+	           We are raising IT professionals accross the nations of the World.
+	Devops Xpress Software Solutions offers Training for DevOps with Linux, Git Github Maven Tomcat Sonaqube Nexus Jenkins Cloud, equipping IT Engineers for best performance.
+	Visit our site for class start dates.
+        Please invite all your contacts and friends for this life changing course.
 </h1>
 <hr>
 <br>
@@ -30,19 +37,16 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                DevOps Xpress, 
-		Laurel, USA
-		+1 240 426 0018,
+                Devops Xpress home office in Laurel Marylaand, USA.
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2024 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center> Devops Xpres - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2024 by <a href="http://Devops Xpress.com/">Devops Xpress</a> </small></p>
 
 </body>
 </html>
