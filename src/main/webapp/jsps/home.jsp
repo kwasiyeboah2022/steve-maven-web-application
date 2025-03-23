@@ -46,7 +46,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center> Devops Xpres - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2024 by <a href="http://Devops Xpress.com/">Devops Xpress</a> </small></p>
+<p align=center><small>Copyrights 2025 by <a href="http://Devops Xpress.com/">Aria Devops</a> </small></p>
 
 </body>
 </html>
