@@ -45,7 +45,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Devops Xpres - Consultant, Training and Software Development</p>
+<p align=center> Aria DevOps - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2025 by <a href="http://Devops Xpress.com/">Aria Devops</a> </small></p>
 
 </body>
